@@ -7,7 +7,7 @@ Describe how to move between levels easily.
 Click on the "Next Level" button, then go to Level 2
 Click on the "Restart" button, then restart the game 
 
-Describe your enhancements.
+Enhancements.
 
 1. In level two, I add a moving target, which makes level 2 much more 
 challenging than level 1. Players can also specify the moving speed 
