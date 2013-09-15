@@ -1,4 +1,4 @@
-Mad Bird
+Angry Bird
 =========
 
 An Angry Bird game developed in C++ with X library http://www.x.org/wiki/. (1965 lines of code)
