@@ -1,7 +1,7 @@
 AngryBird
 =========
 
-An Angry Bird game developed in C++ with X library http://www.x.org/wiki/. (2000+ lines of code)
+An Angry Bird game developed in C++ with X library http://www.x.org/wiki/. (1965 lines of code)
 
 Describe how to move between levels easily.
 Click on the "Next Level" button, then go to Level 2
