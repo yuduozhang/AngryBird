@@ -30,3 +30,9 @@ might want to increase this number. Please see ./madBird -help for
 more information.
 
 5. Display appropriate message if fail the game, or win the game.
+
+Screenshots:
+
+![alt tag](https://raw.github.com/yuduozhang/AngryBird/master/Angry_Bird_1.png)
+![alt tag](https://raw.github.com/yuduozhang/AngryBird/master/Angry_Bird_2.png)
+![alt tag](https://raw.github.com/yuduozhang/AngryBird/master/Angry_Bird_3.png)
